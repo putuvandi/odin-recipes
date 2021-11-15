@@ -1,2 +1,2 @@
 # odin-recipes
-Odading Recipe using simple HTML
+Odading, Pukis, and Terang Bulan Recipes using simple HTML
